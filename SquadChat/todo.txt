@@ -1,0 +1,13 @@
+adding firbase 
+    to android 
+    to ios
+    to web
+    
+await Firebase.initializeApp(); -> android and ios
+
+  apiKey: "AIzaSyDUDJHq0h-ANlB95Kq4rnitP5HorcxB8bI",
+  authDomain: "communityapp-218bf.firebaseapp.com",
+  projectId: "communityapp-218bf",
+  storageBucket: "communityapp-218bf.appspot.com",
+  messagingSenderId: "978172425755",
+  appId: "1:978172425755:web:e7e77e22f92f42d8602abe"
